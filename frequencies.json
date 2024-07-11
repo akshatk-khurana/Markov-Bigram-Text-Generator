@@ -5,7 +5,13 @@
         "depicted": 1,
         "ran": 1,
         "off": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was",
+            "a",
+            "depicted",
+            "ran",
+            "off"
+        ]
     },
     "was": {
         "a": 1,
@@ -21,7 +27,21 @@
         "very": 1,
         "shining": 1,
         "the": 1,
-        "HIGHEST": "very"
+        "ORDERED": [
+            "no",
+            "one",
+            "a",
+            "seldom",
+            "cut",
+            "part",
+            "seven",
+            "thirty",
+            "reading",
+            "called",
+            "very",
+            "shining",
+            "the"
+        ]
     },
     "a": {
         "bright": 1,
@@ -40,21 +60,46 @@
         "helicopter": 1,
         "bluebottle": 1,
         "curving": 1,
-        "HIGHEST": "varicose"
+        "ORDERED": [
+            "bright",
+            "swirl",
+            "coloured",
+            "metre",
+            "man",
+            "heavy",
+            "varicose",
+            "fruity",
+            "list",
+            "dulled",
+            "switch",
+            "smallish",
+            "harsh",
+            "helicopter",
+            "bluebottle",
+            "curving"
+        ]
     },
     "bright": {
         "cold": 1,
-        "HIGHEST": "cold"
+        "ORDERED": [
+            "cold"
+        ]
     },
     "cold": {
         "day": 1,
         "of": 1,
         "down": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "day",
+            "of",
+            "down"
+        ]
     },
     "day": {
         "in": 1,
-        "HIGHEST": "in"
+        "ORDERED": [
+            "in"
+        ]
     },
     "in": {
         "april": 1,
@@ -62,11 +107,19 @@
         "preparation": 1,
         "the": 3,
         "anything": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "april",
+            "an",
+            "preparation",
+            "anything"
+        ]
     },
     "april": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "and": {
         "the": 4,
@@ -80,7 +133,19 @@
         "though": 1,
         "uncovering": 1,
         "darted": 1,
-        "HIGHEST": "winston"
+        "ORDERED": [
+            "the",
+            "old",
+            "ruggedly",
+            "at",
+            "winston",
+            "had",
+            "blunt",
+            "torn",
+            "though",
+            "uncovering",
+            "darted"
+        ]
     },
     "the": {
         "clocks": 1,
@@ -130,11 +195,61 @@
         "police": 1,
         "patrols": 1,
         "thought": 1,
-        "HIGHEST": "world"
+        "ORDERED": [
+            "wall",
+            "lift",
+            "flat",
+            "caption",
+            "voice",
+            "clocks",
+            "vile",
+            "glass",
+            "hallway",
+            "face",
+            "stairs",
+            "best",
+            "electric",
+            "economy",
+            "way",
+            "poster",
+            "enormous",
+            "eyes",
+            "production",
+            "surface",
+            "right",
+            "words",
+            "instrument",
+            "telescreen",
+            "window",
+            "meagreness",
+            "blue",
+            "uniform",
+            "party",
+            "cold",
+            "winter",
+            "shut",
+            "world",
+            "street",
+            "sun",
+            "sky",
+            "posters",
+            "black",
+            "house",
+            "dark",
+            "wind",
+            "single",
+            "far",
+            "roofs",
+            "police",
+            "patrols",
+            "thought"
+        ]
     },
     "clocks": {
         "were": 1,
-        "HIGHEST": "were"
+        "ORDERED": [
+            "were"
+        ]
     },
     "were": {
         "striking": 1,
@@ -142,26 +257,43 @@
         "the": 1,
         "whirling": 1,
         "plastered": 1,
-        "HIGHEST": "whirling"
+        "ORDERED": [
+            "striking",
+            "still",
+            "the",
+            "whirling",
+            "plastered"
+        ]
     },
     "striking": {
         "thirteen": 1,
-        "HIGHEST": "thirteen"
+        "ORDERED": [
+            "thirteen"
+        ]
     },
     "thirteen": {
         "winston": 1,
-        "HIGHEST": "winston"
+        "ORDERED": [
+            "winston"
+        ]
     },
     "winston": {
         "smith": 1,
         "made": 1,
         "who": 1,
         "turned": 1,
-        "HIGHEST": "who"
+        "ORDERED": [
+            "smith",
+            "made",
+            "who",
+            "turned"
+        ]
     },
     "smith": {
         "his": 1,
-        "HIGHEST": "his"
+        "ORDERED": [
+            "his"
+        ]
     },
     "his": {
         "chin": 1,
@@ -171,37 +303,63 @@
         "hair": 1,
         "face": 1,
         "skin": 1,
-        "HIGHEST": "skin"
+        "ORDERED": [
+            "chin",
+            "breast",
+            "right",
+            "body",
+            "hair",
+            "face",
+            "skin"
+        ]
     },
     "chin": {
         "nuzzled": 1,
-        "HIGHEST": "nuzzled"
+        "ORDERED": [
+            "nuzzled"
+        ]
     },
     "nuzzled": {
         "into": 1,
-        "HIGHEST": "into"
+        "ORDERED": [
+            "into"
+        ]
     },
     "into": {
         "his": 1,
         "spirals": 1,
         "winstons": 1,
         "peoples": 1,
-        "HIGHEST": "winstons"
+        "ORDERED": [
+            "his",
+            "spirals",
+            "winstons",
+            "peoples"
+        ]
     },
     "breast": {
         "in": 1,
-        "HIGHEST": "in"
+        "ORDERED": [
+            "in"
+        ]
     },
     "an": {
         "effort": 1,
         "enormous": 1,
         "oblong": 1,
         "instant": 1,
-        "HIGHEST": "oblong"
+        "ORDERED": [
+            "effort",
+            "enormous",
+            "oblong",
+            "instant"
+        ]
     },
     "effort": {
         "to": 1,
-        "HIGHEST": "to"
+        "ORDERED": [
+            "to"
+        ]
     },
     "to": {
         "escape": 1,
@@ -209,42 +367,67 @@
         "the": 2,
         "do": 1,
         "be": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "escape",
+            "prevent",
+            "do",
+            "be"
+        ]
     },
     "escape": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "vile": {
         "wind": 1,
-        "HIGHEST": "wind"
+        "ORDERED": [
+            "wind"
+        ]
     },
     "wind": {
         "slipped": 1,
         "were": 1,
         "alternately": 1,
-        "HIGHEST": "were"
+        "ORDERED": [
+            "slipped",
+            "were",
+            "alternately"
+        ]
     },
     "slipped": {
         "quickly": 1,
-        "HIGHEST": "quickly"
+        "ORDERED": [
+            "quickly"
+        ]
     },
     "quickly": {
         "through": 1,
         "enough": 1,
-        "HIGHEST": "through"
+        "ORDERED": [
+            "through",
+            "enough"
+        ]
     },
     "through": {
         "the": 2,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "glass": {
         "doors": 1,
-        "HIGHEST": "doors"
+        "ORDERED": [
+            "doors"
+        ]
     },
     "doors": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "of": {
         "victory": 1,
@@ -261,1127 +444,1734 @@
         "shutting": 1,
         "his": 1,
         "wind": 1,
-        "HIGHEST": "wind"
+        "ORDERED": [
+            "the",
+            "victory",
+            "gritty",
+            "boiled",
+            "it",
+            "a",
+            "about",
+            "times",
+            "those",
+            "figures",
+            "pig",
+            "shutting",
+            "his",
+            "wind"
+        ]
     },
     "victory": {
         "mansions": 1,
-        "HIGHEST": "mansions"
+        "ORDERED": [
+            "mansions"
+        ]
     },
     "mansions": {
         "though": 1,
-        "HIGHEST": "though"
+        "ORDERED": [
+            "though"
+        ]
     },
     "though": {
         "not": 1,
         "the": 2,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "not"
+        ]
     },
     "not": {
         "quickly": 1,
         "matter": 1,
-        "HIGHEST": "quickly"
+        "ORDERED": [
+            "quickly",
+            "matter"
+        ]
     },
     "enough": {
         "to": 1,
-        "HIGHEST": "to"
+        "ORDERED": [
+            "to"
+        ]
     },
     "prevent": {
         "a": 1,
-        "HIGHEST": "a"
+        "ORDERED": [
+            "a"
+        ]
     },
     "swirl": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "gritty": {
         "dust": 1,
-        "HIGHEST": "dust"
+        "ORDERED": [
+            "dust"
+        ]
     },
     "dust": {
         "from": 1,
         "and": 1,
-        "HIGHEST": "from"
+        "ORDERED": [
+            "from",
+            "and"
+        ]
     },
     "from": {
         "entering": 1,
         "the": 1,
         "an": 1,
         "every": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "entering",
+            "the",
+            "an",
+            "every"
+        ]
     },
     "entering": {
         "along": 1,
-        "HIGHEST": "along"
+        "ORDERED": [
+            "along"
+        ]
     },
     "along": {
         "with": 1,
-        "HIGHEST": "with"
+        "ORDERED": [
+            "with"
+        ]
     },
     "with": {
         "him": 1,
         "a": 2,
         "the": 2,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "a",
+            "the",
+            "him"
+        ]
     },
     "him": {
         "": 1,
-        "HIGHEST": ""
+        "ORDERED": [
+            ""
+        ]
     },
     "": {
         "the": 1,
         "inside": 1,
         "outside": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "inside",
+            "outside"
+        ]
     },
     "hallway": {
         "smelt": 1,
-        "HIGHEST": "smelt"
+        "ORDERED": [
+            "smelt"
+        ]
     },
     "smelt": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "boiled": {
         "cabbage": 1,
-        "HIGHEST": "cabbage"
+        "ORDERED": [
+            "cabbage"
+        ]
     },
     "cabbage": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "old": {
         "rag": 1,
-        "HIGHEST": "rag"
+        "ORDERED": [
+            "rag"
+        ]
     },
     "rag": {
         "mats": 1,
-        "HIGHEST": "mats"
+        "ORDERED": [
+            "mats"
+        ]
     },
     "mats": {
         "at": 1,
-        "HIGHEST": "at"
+        "ORDERED": [
+            "at"
+        ]
     },
     "at": {
         "one": 2,
         "the": 1,
         "present": 1,
         "street": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "one",
+            "the",
+            "present",
+            "street"
+        ]
     },
     "one": {
         "end": 1,
         "of": 1,
         "on": 1,
         "corner": 1,
-        "HIGHEST": "on"
+        "ORDERED": [
+            "end",
+            "of",
+            "on",
+            "corner"
+        ]
     },
     "end": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "coloured": {
         "poster": 1,
-        "HIGHEST": "poster"
+        "ORDERED": [
+            "poster"
+        ]
     },
     "poster": {
         "too": 1,
         "with": 1,
         "torn": 1,
-        "HIGHEST": "with"
+        "ORDERED": [
+            "too",
+            "with",
+            "torn"
+        ]
     },
     "too": {
         "large": 1,
-        "HIGHEST": "large"
+        "ORDERED": [
+            "large"
+        ]
     },
     "large": {
         "for": 1,
-        "HIGHEST": "for"
+        "ORDERED": [
+            "for"
+        ]
     },
     "for": {
         "indoor": 1,
         "the": 1,
         "hate": 1,
         "an": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "indoor",
+            "the",
+            "hate",
+            "an"
+        ]
     },
     "indoor": {
         "display": 1,
-        "HIGHEST": "display"
+        "ORDERED": [
+            "display"
+        ]
     },
     "display": {
         "had": 1,
-        "HIGHEST": "had"
+        "ORDERED": [
+            "had"
+        ]
     },
     "had": {
         "been": 1,
         "a": 1,
         "something": 1,
         "just": 1,
-        "HIGHEST": "something"
+        "ORDERED": [
+            "been",
+            "a",
+            "something",
+            "just"
+        ]
     },
     "been": {
         "tacked": 1,
-        "HIGHEST": "tacked"
+        "ORDERED": [
+            "tacked"
+        ]
     },
     "tacked": {
         "to": 1,
-        "HIGHEST": "to"
+        "ORDERED": [
+            "to"
+        ]
     },
     "wall": {
         "it": 2,
         "winston": 1,
-        "HIGHEST": "winston"
+        "ORDERED": [
+            "it",
+            "winston"
+        ]
     },
     "depicted": {
         "simply": 1,
-        "HIGHEST": "simply"
+        "ORDERED": [
+            "simply"
+        ]
     },
     "simply": {
         "an": 1,
-        "HIGHEST": "an"
+        "ORDERED": [
+            "an"
+        ]
     },
     "enormous": {
         "face": 2,
-        "HIGHEST": "face"
+        "ORDERED": [
+            "face"
+        ]
     },
     "face": {
         "more": 1,
         "of": 1,
         "gazed": 2,
         "naturally": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "gazed",
+            "more",
+            "of",
+            "naturally"
+        ]
     },
     "more": {
         "than": 1,
-        "HIGHEST": "than"
+        "ORDERED": [
+            "than"
+        ]
     },
     "than": {
         "a": 1,
-        "HIGHEST": "a"
+        "ORDERED": [
+            "a"
+        ]
     },
     "metre": {
         "wide": 1,
-        "HIGHEST": "wide"
+        "ORDERED": [
+            "wide"
+        ]
     },
     "wide": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "man": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "about": {
         "forty": 1,
         "when": 1,
-        "HIGHEST": "when"
+        "ORDERED": [
+            "forty",
+            "when"
+        ]
     },
     "forty": {
         "five": 1,
-        "HIGHEST": "five"
+        "ORDERED": [
+            "five"
+        ]
     },
     "five": {
         "with": 1,
-        "HIGHEST": "with"
+        "ORDERED": [
+            "with"
+        ]
     },
     "heavy": {
         "black": 1,
-        "HIGHEST": "black"
+        "ORDERED": [
+            "black"
+        ]
     },
     "black": {
         "moustache": 1,
         "moustachiod": 1,
-        "HIGHEST": "moustachiod"
+        "ORDERED": [
+            "moustache",
+            "moustachiod"
+        ]
     },
     "moustache": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "ruggedly": {
         "handsome": 1,
-        "HIGHEST": "handsome"
+        "ORDERED": [
+            "handsome"
+        ]
     },
     "handsome": {
         "features": 1,
-        "HIGHEST": "features"
+        "ORDERED": [
+            "features"
+        ]
     },
     "features": {
         "winston": 1,
-        "HIGHEST": "winston"
+        "ORDERED": [
+            "winston"
+        ]
     },
     "made": {
         "for": 1,
-        "HIGHEST": "for"
+        "ORDERED": [
+            "for"
+        ]
     },
     "stairs": {
         "it": 1,
-        "HIGHEST": "it"
+        "ORDERED": [
+            "it"
+        ]
     },
     "no": {
         "use": 1,
         "way": 1,
         "colour": 1,
-        "HIGHEST": "way"
+        "ORDERED": [
+            "use",
+            "way",
+            "colour"
+        ]
     },
     "use": {
         "trying": 1,
-        "HIGHEST": "trying"
+        "ORDERED": [
+            "trying"
+        ]
     },
     "trying": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "lift": {
         "even": 1,
         "shaft": 1,
-        "HIGHEST": "shaft"
+        "ORDERED": [
+            "even",
+            "shaft"
+        ]
     },
     "even": {
         "at": 1,
         "through": 1,
-        "HIGHEST": "through"
+        "ORDERED": [
+            "at",
+            "through"
+        ]
     },
     "best": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "times": {
         "it": 1,
         "on": 1,
-        "HIGHEST": "on"
+        "ORDERED": [
+            "it",
+            "on"
+        ]
     },
     "seldom": {
         "working": 1,
-        "HIGHEST": "working"
+        "ORDERED": [
+            "working"
+        ]
     },
     "working": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "present": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "electric": {
         "current": 1,
-        "HIGHEST": "current"
+        "ORDERED": [
+            "current"
+        ]
     },
     "current": {
         "was": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was"
+        ]
     },
     "cut": {
         "off": 1,
-        "HIGHEST": "off"
+        "ORDERED": [
+            "off"
+        ]
     },
     "off": {
         "during": 1,
         "completely": 1,
-        "HIGHEST": "during"
+        "ORDERED": [
+            "during",
+            "completely"
+        ]
     },
     "during": {
         "daylight": 1,
-        "HIGHEST": "daylight"
+        "ORDERED": [
+            "daylight"
+        ]
     },
     "daylight": {
         "hours": 1,
-        "HIGHEST": "hours"
+        "ORDERED": [
+            "hours"
+        ]
     },
     "hours": {
         "it": 1,
-        "HIGHEST": "it"
+        "ORDERED": [
+            "it"
+        ]
     },
     "part": {
         "of": 2,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "economy": {
         "drive": 1,
-        "HIGHEST": "drive"
+        "ORDERED": [
+            "drive"
+        ]
     },
     "drive": {
         "in": 1,
-        "HIGHEST": "in"
+        "ORDERED": [
+            "in"
+        ]
     },
     "preparation": {
         "for": 1,
-        "HIGHEST": "for"
+        "ORDERED": [
+            "for"
+        ]
     },
     "hate": {
         "week": 1,
-        "HIGHEST": "week"
+        "ORDERED": [
+            "week"
+        ]
     },
     "week": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "flat": {
         "was": 1,
         "a": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was",
+            "a"
+        ]
     },
     "seven": {
         "flights": 1,
-        "HIGHEST": "flights"
+        "ORDERED": [
+            "flights"
+        ]
     },
     "flights": {
         "up": 1,
-        "HIGHEST": "up"
+        "ORDERED": [
+            "up"
+        ]
     },
     "up": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "who": {
         "was": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was"
+        ]
     },
     "thirty": {
         "nine": 1,
-        "HIGHEST": "nine"
+        "ORDERED": [
+            "nine"
+        ]
     },
     "nine": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "varicose": {
         "ulcer": 1,
-        "HIGHEST": "ulcer"
+        "ORDERED": [
+            "ulcer"
+        ]
     },
     "ulcer": {
         "above": 1,
-        "HIGHEST": "above"
+        "ORDERED": [
+            "above"
+        ]
     },
     "above": {
         "his": 1,
-        "HIGHEST": "his"
+        "ORDERED": [
+            "his"
+        ]
     },
     "right": {
         "ankle": 1,
         "hand": 1,
-        "HIGHEST": "hand"
+        "ORDERED": [
+            "ankle",
+            "hand"
+        ]
     },
     "ankle": {
         "went": 1,
-        "HIGHEST": "went"
+        "ORDERED": [
+            "went"
+        ]
     },
     "went": {
         "slowly": 1,
-        "HIGHEST": "slowly"
+        "ORDERED": [
+            "slowly"
+        ]
     },
     "slowly": {
         "resting": 1,
-        "HIGHEST": "resting"
+        "ORDERED": [
+            "resting"
+        ]
     },
     "resting": {
         "several": 1,
-        "HIGHEST": "several"
+        "ORDERED": [
+            "several"
+        ]
     },
     "several": {
         "times": 1,
-        "HIGHEST": "times"
+        "ORDERED": [
+            "times"
+        ]
     },
     "on": {
         "the": 2,
         "each": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "each"
+        ]
     },
     "way": {
         "on": 1,
         "of": 1,
-        "HIGHEST": "on"
+        "ORDERED": [
+            "on",
+            "of"
+        ]
     },
     "each": {
         "landing": 1,
-        "HIGHEST": "landing"
+        "ORDERED": [
+            "landing"
+        ]
     },
     "landing": {
         "opposite": 1,
-        "HIGHEST": "opposite"
+        "ORDERED": [
+            "opposite"
+        ]
     },
     "opposite": {
         "the": 1,
         "big": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "big"
+        ]
     },
     "shaft": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "gazed": {
         "from": 1,
         "down": 1,
-        "HIGHEST": "from"
+        "ORDERED": [
+            "from",
+            "down"
+        ]
     },
     "those": {
         "pictures": 1,
-        "HIGHEST": "pictures"
+        "ORDERED": [
+            "pictures"
+        ]
     },
     "pictures": {
         "which": 1,
-        "HIGHEST": "which"
+        "ORDERED": [
+            "which"
+        ]
     },
     "which": {
         "are": 1,
         "had": 1,
         "formed": 1,
         "were": 1,
-        "HIGHEST": "were"
+        "ORDERED": [
+            "are",
+            "had",
+            "formed",
+            "were"
+        ]
     },
     "are": {
         "so": 1,
-        "HIGHEST": "so"
+        "ORDERED": [
+            "so"
+        ]
     },
     "so": {
         "contrived": 1,
-        "HIGHEST": "contrived"
+        "ORDERED": [
+            "contrived"
+        ]
     },
     "contrived": {
         "that": 1,
-        "HIGHEST": "that"
+        "ORDERED": [
+            "that"
+        ]
     },
     "that": {
         "the": 1,
         "had": 1,
         "were": 1,
-        "HIGHEST": "were"
+        "ORDERED": [
+            "the",
+            "had",
+            "were"
+        ]
     },
     "eyes": {
         "follow": 1,
         "looked": 1,
-        "HIGHEST": "looked"
+        "ORDERED": [
+            "follow",
+            "looked"
+        ]
     },
     "follow": {
         "you": 1,
-        "HIGHEST": "you"
+        "ORDERED": [
+            "you"
+        ]
     },
     "you": {
         "about": 1,
         "move": 1,
         "the": 2,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "about",
+            "move"
+        ]
     },
     "when": {
         "you": 1,
-        "HIGHEST": "you"
+        "ORDERED": [
+            "you"
+        ]
     },
     "move": {
         "big": 1,
-        "HIGHEST": "big"
+        "ORDERED": [
+            "big"
+        ]
     },
     "big": {
         "brother": 2,
-        "HIGHEST": "brother"
+        "ORDERED": [
+            "brother"
+        ]
     },
     "brother": {
         "is": 2,
-        "HIGHEST": "is"
+        "ORDERED": [
+            "is"
+        ]
     },
     "is": {
         "watching": 2,
-        "HIGHEST": "watching"
+        "ORDERED": [
+            "watching"
+        ]
     },
     "watching": {
         "you": 2,
-        "HIGHEST": "you"
+        "ORDERED": [
+            "you"
+        ]
     },
     "caption": {
         "beneath": 1,
         "said": 1,
-        "HIGHEST": "said"
+        "ORDERED": [
+            "beneath",
+            "said"
+        ]
     },
     "beneath": {
         "it": 1,
-        "HIGHEST": "it"
+        "ORDERED": [
+            "it"
+        ]
     },
     "ran": {
         "": 1,
-        "HIGHEST": ""
+        "ORDERED": [
+            ""
+        ]
     },
     "inside": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "fruity": {
         "voice": 1,
-        "HIGHEST": "voice"
+        "ORDERED": [
+            "voice"
+        ]
     },
     "voice": {
         "was": 1,
         "came": 1,
         "sank": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was",
+            "came",
+            "sank"
+        ]
     },
     "reading": {
         "out": 1,
-        "HIGHEST": "out"
+        "ORDERED": [
+            "out"
+        ]
     },
     "out": {
         "a": 1,
-        "HIGHEST": "a"
+        "ORDERED": [
+            "a"
+        ]
     },
     "list": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "figures": {
         "which": 1,
-        "HIGHEST": "which"
+        "ORDERED": [
+            "which"
+        ]
     },
     "something": {
         "to": 1,
-        "HIGHEST": "to"
+        "ORDERED": [
+            "to"
+        ]
     },
     "do": {
         "with": 1,
-        "HIGHEST": "with"
+        "ORDERED": [
+            "with"
+        ]
     },
     "production": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "pig": {
         "iron": 1,
-        "HIGHEST": "iron"
+        "ORDERED": [
+            "iron"
+        ]
     },
     "iron": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "came": {
         "from": 1,
-        "HIGHEST": "from"
+        "ORDERED": [
+            "from"
+        ]
     },
     "oblong": {
         "metal": 1,
-        "HIGHEST": "metal"
+        "ORDERED": [
+            "metal"
+        ]
     },
     "metal": {
         "plaque": 1,
-        "HIGHEST": "plaque"
+        "ORDERED": [
+            "plaque"
+        ]
     },
     "plaque": {
         "like": 1,
-        "HIGHEST": "like"
+        "ORDERED": [
+            "like"
+        ]
     },
     "like": {
         "a": 2,
-        "HIGHEST": "a"
+        "ORDERED": [
+            "a"
+        ]
     },
     "dulled": {
         "mirror": 1,
-        "HIGHEST": "mirror"
+        "ORDERED": [
+            "mirror"
+        ]
     },
     "mirror": {
         "which": 1,
-        "HIGHEST": "which"
+        "ORDERED": [
+            "which"
+        ]
     },
     "formed": {
         "part": 1,
-        "HIGHEST": "part"
+        "ORDERED": [
+            "part"
+        ]
     },
     "surface": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "hand": {
         "wall": 1,
-        "HIGHEST": "wall"
+        "ORDERED": [
+            "wall"
+        ]
     },
     "turned": {
         "a": 1,
-        "HIGHEST": "a"
+        "ORDERED": [
+            "a"
+        ]
     },
     "switch": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "sank": {
         "somewhat": 1,
-        "HIGHEST": "somewhat"
+        "ORDERED": [
+            "somewhat"
+        ]
     },
     "somewhat": {
         "though": 1,
-        "HIGHEST": "though"
+        "ORDERED": [
+            "though"
+        ]
     },
     "words": {
         "were": 1,
-        "HIGHEST": "were"
+        "ORDERED": [
+            "were"
+        ]
     },
     "still": {
         "distinguishable": 1,
-        "HIGHEST": "distinguishable"
+        "ORDERED": [
+            "distinguishable"
+        ]
     },
     "distinguishable": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "instrument": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "telescreen": {
         "it": 1,
-        "HIGHEST": "it"
+        "ORDERED": [
+            "it"
+        ]
     },
     "called": {
         "could": 1,
-        "HIGHEST": "could"
+        "ORDERED": [
+            "could"
+        ]
     },
     "could": {
         "be": 1,
-        "HIGHEST": "be"
+        "ORDERED": [
+            "be"
+        ]
     },
     "be": {
         "dimmed": 1,
         "no": 1,
-        "HIGHEST": "no"
+        "ORDERED": [
+            "dimmed",
+            "no"
+        ]
     },
     "dimmed": {
         "but": 1,
-        "HIGHEST": "but"
+        "ORDERED": [
+            "but"
+        ]
     },
     "but": {
         "there": 1,
-        "HIGHEST": "there"
+        "ORDERED": [
+            "there"
+        ]
     },
     "there": {
         "was": 2,
         "seemed": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was",
+            "seemed"
+        ]
     },
     "shutting": {
         "it": 1,
-        "HIGHEST": "it"
+        "ORDERED": [
+            "it"
+        ]
     },
     "completely": {
         "he": 1,
-        "HIGHEST": "he"
+        "ORDERED": [
+            "he"
+        ]
     },
     "he": {
         "moved": 1,
-        "HIGHEST": "moved"
+        "ORDERED": [
+            "moved"
+        ]
     },
     "moved": {
         "over": 1,
-        "HIGHEST": "over"
+        "ORDERED": [
+            "over"
+        ]
     },
     "over": {
         "to": 1,
-        "HIGHEST": "to"
+        "ORDERED": [
+            "to"
+        ]
     },
     "window": {
         "a": 1,
         "pane": 1,
-        "HIGHEST": "pane"
+        "ORDERED": [
+            "a",
+            "pane"
+        ]
     },
     "smallish": {
         "frail": 1,
-        "HIGHEST": "frail"
+        "ORDERED": [
+            "frail"
+        ]
     },
     "frail": {
         "figure": 1,
-        "HIGHEST": "figure"
+        "ORDERED": [
+            "figure"
+        ]
     },
     "figure": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "meagreness": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "body": {
         "merely": 1,
-        "HIGHEST": "merely"
+        "ORDERED": [
+            "merely"
+        ]
     },
     "merely": {
         "emphasized": 1,
-        "HIGHEST": "emphasized"
+        "ORDERED": [
+            "emphasized"
+        ]
     },
     "emphasized": {
         "by": 1,
-        "HIGHEST": "by"
+        "ORDERED": [
+            "by"
+        ]
     },
     "by": {
         "the": 1,
         "coarse": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the",
+            "coarse"
+        ]
     },
     "blue": {
         "overalls": 1,
         "there": 1,
-        "HIGHEST": "there"
+        "ORDERED": [
+            "overalls",
+            "there"
+        ]
     },
     "overalls": {
         "which": 1,
-        "HIGHEST": "which"
+        "ORDERED": [
+            "which"
+        ]
     },
     "uniform": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "party": {
         "his": 1,
-        "HIGHEST": "his"
+        "ORDERED": [
+            "his"
+        ]
     },
     "hair": {
         "was": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was"
+        ]
     },
     "very": {
         "fair": 1,
-        "HIGHEST": "fair"
+        "ORDERED": [
+            "fair"
+        ]
     },
     "fair": {
         "his": 1,
-        "HIGHEST": "his"
+        "ORDERED": [
+            "his"
+        ]
     },
     "naturally": {
         "sanguine": 1,
-        "HIGHEST": "sanguine"
+        "ORDERED": [
+            "sanguine"
+        ]
     },
     "sanguine": {
         "his": 1,
-        "HIGHEST": "his"
+        "ORDERED": [
+            "his"
+        ]
     },
     "skin": {
         "roughened": 1,
-        "HIGHEST": "roughened"
+        "ORDERED": [
+            "roughened"
+        ]
     },
     "roughened": {
         "by": 1,
-        "HIGHEST": "by"
+        "ORDERED": [
+            "by"
+        ]
     },
     "coarse": {
         "soap": 1,
-        "HIGHEST": "soap"
+        "ORDERED": [
+            "soap"
+        ]
     },
     "soap": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "blunt": {
         "razor": 1,
-        "HIGHEST": "razor"
+        "ORDERED": [
+            "razor"
+        ]
     },
     "razor": {
         "blades": 1,
-        "HIGHEST": "blades"
+        "ORDERED": [
+            "blades"
+        ]
     },
     "blades": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "winter": {
         "that": 1,
-        "HIGHEST": "that"
+        "ORDERED": [
+            "that"
+        ]
     },
     "just": {
         "ended": 1,
-        "HIGHEST": "ended"
+        "ORDERED": [
+            "ended"
+        ]
     },
     "ended": {
         "": 1,
-        "HIGHEST": ""
+        "ORDERED": [
+            ""
+        ]
     },
     "outside": {
         "even": 1,
-        "HIGHEST": "even"
+        "ORDERED": [
+            "even"
+        ]
     },
     "shut": {
         "window": 1,
-        "HIGHEST": "window"
+        "ORDERED": [
+            "window"
+        ]
     },
     "pane": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "world": {
         "looked": 1,
-        "HIGHEST": "looked"
+        "ORDERED": [
+            "looked"
+        ]
     },
     "looked": {
         "cold": 1,
         "deep": 1,
-        "HIGHEST": "deep"
+        "ORDERED": [
+            "cold",
+            "deep"
+        ]
     },
     "down": {
         "in": 1,
         "from": 1,
         "at": 1,
         "between": 1,
-        "HIGHEST": "in"
+        "ORDERED": [
+            "in",
+            "from",
+            "at",
+            "between"
+        ]
     },
     "street": {
         "little": 1,
         "level": 1,
-        "HIGHEST": "little"
+        "ORDERED": [
+            "little",
+            "level"
+        ]
     },
     "little": {
         "eddies": 1,
-        "HIGHEST": "eddies"
+        "ORDERED": [
+            "eddies"
+        ]
     },
     "eddies": {
         "of": 1,
-        "HIGHEST": "of"
+        "ORDERED": [
+            "of"
+        ]
     },
     "whirling": {
         "dust": 1,
-        "HIGHEST": "dust"
+        "ORDERED": [
+            "dust"
+        ]
     },
     "torn": {
         "paper": 1,
         "at": 1,
-        "HIGHEST": "paper"
+        "ORDERED": [
+            "paper",
+            "at"
+        ]
     },
     "paper": {
         "into": 1,
-        "HIGHEST": "into"
+        "ORDERED": [
+            "into"
+        ]
     },
     "spirals": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "sun": {
         "was": 1,
-        "HIGHEST": "was"
+        "ORDERED": [
+            "was"
+        ]
     },
     "shining": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "sky": {
         "a": 1,
-        "HIGHEST": "a"
+        "ORDERED": [
+            "a"
+        ]
     },
     "harsh": {
         "blue": 1,
-        "HIGHEST": "blue"
+        "ORDERED": [
+            "blue"
+        ]
     },
     "seemed": {
         "to": 1,
-        "HIGHEST": "to"
+        "ORDERED": [
+            "to"
+        ]
     },
     "colour": {
         "in": 1,
-        "HIGHEST": "in"
+        "ORDERED": [
+            "in"
+        ]
     },
     "anything": {
         "except": 1,
-        "HIGHEST": "except"
+        "ORDERED": [
+            "except"
+        ]
     },
     "except": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "posters": {
         "that": 1,
-        "HIGHEST": "that"
+        "ORDERED": [
+            "that"
+        ]
     },
     "plastered": {
         "everywhere": 1,
-        "HIGHEST": "everywhere"
+        "ORDERED": [
+            "everywhere"
+        ]
     },
     "everywhere": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "moustachiod": {
         "face": 1,
-        "HIGHEST": "face"
+        "ORDERED": [
+            "face"
+        ]
     },
     "every": {
         "commanding": 1,
-        "HIGHEST": "commanding"
+        "ORDERED": [
+            "commanding"
+        ]
     },
     "commanding": {
         "corner": 1,
-        "HIGHEST": "corner"
+        "ORDERED": [
+            "corner"
+        ]
     },
     "corner": {
         "there": 1,
         "flapped": 1,
-        "HIGHEST": "there"
+        "ORDERED": [
+            "there",
+            "flapped"
+        ]
     },
     "house": {
         "front": 1,
-        "HIGHEST": "front"
+        "ORDERED": [
+            "front"
+        ]
     },
     "front": {
         "immediately": 1,
-        "HIGHEST": "immediately"
+        "ORDERED": [
+            "immediately"
+        ]
     },
     "immediately": {
         "opposite": 1,
-        "HIGHEST": "opposite"
+        "ORDERED": [
+            "opposite"
+        ]
     },
     "said": {
         "while": 1,
-        "HIGHEST": "while"
+        "ORDERED": [
+            "while"
+        ]
     },
     "while": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "dark": {
         "eyes": 1,
-        "HIGHEST": "eyes"
+        "ORDERED": [
+            "eyes"
+        ]
     },
     "deep": {
         "into": 1,
-        "HIGHEST": "into"
+        "ORDERED": [
+            "into"
+        ]
     },
     "winstons": {
         "own": 1,
-        "HIGHEST": "own"
+        "ORDERED": [
+            "own"
+        ]
     },
     "own": {
         "down": 1,
-        "HIGHEST": "down"
+        "ORDERED": [
+            "down"
+        ]
     },
     "level": {
         "another": 1,
-        "HIGHEST": "another"
+        "ORDERED": [
+            "another"
+        ]
     },
     "another": {
         "poster": 1,
-        "HIGHEST": "poster"
+        "ORDERED": [
+            "poster"
+        ]
     },
     "flapped": {
         "fitfully": 1,
-        "HIGHEST": "fitfully"
+        "ORDERED": [
+            "fitfully"
+        ]
     },
     "fitfully": {
         "in": 1,
-        "HIGHEST": "in"
+        "ORDERED": [
+            "in"
+        ]
     },
     "alternately": {
         "covering": 1,
-        "HIGHEST": "covering"
+        "ORDERED": [
+            "covering"
+        ]
     },
     "covering": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "uncovering": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "single": {
         "word": 1,
-        "HIGHEST": "word"
+        "ORDERED": [
+            "word"
+        ]
     },
     "word": {
         "ingsoc": 1,
-        "HIGHEST": "ingsoc"
+        "ORDERED": [
+            "ingsoc"
+        ]
     },
     "ingsoc": {
         "in": 1,
-        "HIGHEST": "in"
+        "ORDERED": [
+            "in"
+        ]
     },
     "far": {
         "distance": 1,
-        "HIGHEST": "distance"
+        "ORDERED": [
+            "distance"
+        ]
     },
     "distance": {
         "a": 1,
-        "HIGHEST": "a"
+        "ORDERED": [
+            "a"
+        ]
     },
     "helicopter": {
         "skimmed": 1,
-        "HIGHEST": "skimmed"
+        "ORDERED": [
+            "skimmed"
+        ]
     },
     "skimmed": {
         "down": 1,
-        "HIGHEST": "down"
+        "ORDERED": [
+            "down"
+        ]
     },
     "between": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "roofs": {
         "hovered": 1,
-        "HIGHEST": "hovered"
+        "ORDERED": [
+            "hovered"
+        ]
     },
     "hovered": {
         "for": 1,
-        "HIGHEST": "for"
+        "ORDERED": [
+            "for"
+        ]
     },
     "instant": {
         "like": 1,
-        "HIGHEST": "like"
+        "ORDERED": [
+            "like"
+        ]
     },
     "bluebottle": {
         "and": 1,
-        "HIGHEST": "and"
+        "ORDERED": [
+            "and"
+        ]
     },
     "darted": {
         "away": 1,
-        "HIGHEST": "away"
+        "ORDERED": [
+            "away"
+        ]
     },
     "away": {
         "again": 1,
-        "HIGHEST": "again"
+        "ORDERED": [
+            "again"
+        ]
     },
     "again": {
         "with": 1,
-        "HIGHEST": "with"
+        "ORDERED": [
+            "with"
+        ]
     },
     "curving": {
         "flight": 1,
-        "HIGHEST": "flight"
+        "ORDERED": [
+            "flight"
+        ]
     },
     "flight": {
         "it": 1,
-        "HIGHEST": "it"
+        "ORDERED": [
+            "it"
+        ]
     },
     "police": {
         "patrol": 1,
         "mattered": 1,
-        "HIGHEST": "patrol"
+        "ORDERED": [
+            "patrol",
+            "mattered"
+        ]
     },
     "patrol": {
         "snooping": 1,
-        "HIGHEST": "snooping"
+        "ORDERED": [
+            "snooping"
+        ]
     },
     "snooping": {
         "into": 1,
-        "HIGHEST": "into"
+        "ORDERED": [
+            "into"
+        ]
     },
     "peoples": {
         "windows": 1,
-        "HIGHEST": "windows"
+        "ORDERED": [
+            "windows"
+        ]
     },
     "windows": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "patrols": {
         "did": 1,
-        "HIGHEST": "did"
+        "ORDERED": [
+            "did"
+        ]
     },
     "did": {
         "not": 1,
-        "HIGHEST": "not"
+        "ORDERED": [
+            "not"
+        ]
     },
     "matter": {
         "however": 1,
-        "HIGHEST": "however"
+        "ORDERED": [
+            "however"
+        ]
     },
     "however": {
         "only": 1,
-        "HIGHEST": "only"
+        "ORDERED": [
+            "only"
+        ]
     },
     "only": {
         "the": 1,
-        "HIGHEST": "the"
+        "ORDERED": [
+            "the"
+        ]
     },
     "thought": {
         "police": 1,
-        "HIGHEST": "police"
+        "ORDERED": [
+            "police"
+        ]
     },
     "mattered": {
-        "HIGHEST": "None"
+        "ORDERED": []
     }
 }

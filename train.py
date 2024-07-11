@@ -25,8 +25,8 @@ def store_frequencies():
     with open(OUT_FILE_PATH, "r") as f:
         freq = json.loads(f.read())
 
-    # with open(HISTORY_FOLDER_PATH+str(datetime.now().strftime("%c"))+".json", "w") as f:
-    #     f.write(json.dumps(freq, indent=4))
+    with open(HISTORY_FOLDER_PATH+str(datetime.now().strftime("%c"))+".json", "w") as f:
+        f.write(json.dumps(freq, indent=4))
     
     words = parse_data().split(" ")
     parsed_words = []
@@ -55,28 +55,19 @@ def store_frequencies():
     
     # Store the word with highest frequency
     for word in parsed_words:
-        # sorting_key = lambda w: int(freq[word][w])
+        sorting_key = lambda w: int(freq[word][w])
         freq_list = [i for i in freq[word].keys()]
 
-        if "HIGHEST" in freq_list:
-            freq_list.remove("HIGHEST")
-        
-        freq_list.sort()
-        if len(freq_list) == 0:
-            freq[word]["HIGHEST"] = "None"
-        else:
-            freq[word]["HIGHEST"] = freq_list[-1]
+        if "ORDERED" in freq_list:
+            freq_list.remove("ORDERED")
+        freq_list.sort(key=sorting_key, reverse=True)
 
-        # if "ORDERED" in freq_list:
-        #     freq_list.remove("ORDERED")
-        # freq_list.sort(key=sorting_key, reverse=True)
-
-        # freq[word]["ORDERED"] = freq_list
+        freq[word]["ORDERED"] = freq_list
 
     with open(OUT_FILE_PATH, "w") as f:
         f.write(json.dumps(freq, indent=4))
 
-    # with open(IN_FILE_PATH, "w") as f:
-    #     f.write("")
+    with open(IN_FILE_PATH, "w") as f:
+        f.write("")
 
 store_frequencies()
